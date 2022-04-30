@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{754D9F0A-388D-4181-B350-85316D3AF441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUI", "TestUI\TestUI.csproj", "{30905B80-FD22-4DE8-BB90-CBC17DFB014E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{2072C7C3-387E-4923-8323-BCAB27B40C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754D9F0A-388D-4181-B350-85316D3AF441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754D9F0A-388D-4181-B350-85316D3AF441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754D9F0A-388D-4181-B350-85316D3AF441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754D9F0A-388D-4181-B350-85316D3AF441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30905B80-FD22-4DE8-BB90-CBC17DFB014E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30905B80-FD22-4DE8-BB90-CBC17DFB014E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30905B80-FD22-4DE8-BB90-CBC17DFB014E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30905B80-FD22-4DE8-BB90-CBC17DFB014E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2072C7C3-387E-4923-8323-BCAB27B40C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2072C7C3-387E-4923-8323-BCAB27B40C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2072C7C3-387E-4923-8323-BCAB27B40C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2072C7C3-387E-4923-8323-BCAB27B40C95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

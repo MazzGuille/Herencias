@@ -1,0 +1,4 @@
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\win-x64\publish\TestUI.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\win-x64\publish\TestLibrary.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\win-x64\publish\Interfaces.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\win-x64\publish\TestUI.exe

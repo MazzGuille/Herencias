@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "siN50YbsDse0qiplLehCxRggTMjKt5IHgrQFr1ocst/nEZ6j17xrji1ogiu2TSiWN9KD6vr640xMiKAT/5HT7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestUI\\TestUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP-ProBook 6460B\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\HP-ProBook 6460B\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.4\\microsoft.netcore.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\HP-ProBook 6460B\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\HP-ProBook 6460B\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.4\\microsoft.aspnetcore.app.runtime.win-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

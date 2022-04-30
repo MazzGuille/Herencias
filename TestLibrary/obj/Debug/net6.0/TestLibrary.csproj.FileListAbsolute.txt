@@ -1,0 +1,27 @@
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\bin\Debug\net6.0\TestLibrary.deps.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\bin\Debug\net6.0\TestLibrary.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\bin\Debug\net6.0\TestLibrary.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\obj\Debug\net6.0\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\obj\Debug\net6.0\TestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\obj\Debug\net6.0\TestLibrary.AssemblyInfoInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\obj\Debug\net6.0\TestLibrary.AssemblyInfo.cs
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\obj\Debug\net6.0\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\obj\Debug\net6.0\TestLibrary.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\obj\Debug\net6.0\refint\TestLibrary.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\obj\Debug\net6.0\TestLibrary.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestLibrary\obj\Debug\net6.0\ref\TestLibrary.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\bin\Debug\net6.0\TestLibrary.deps.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\bin\Debug\net6.0\TestLibrary.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\bin\Debug\net6.0\TestLibrary.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\bin\Debug\net6.0\Interfaces.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\obj\Debug\net6.0\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\obj\Debug\net6.0\TestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\obj\Debug\net6.0\TestLibrary.AssemblyInfoInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\obj\Debug\net6.0\TestLibrary.AssemblyInfo.cs
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\obj\Debug\net6.0\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\obj\Debug\net6.0\TestLibrary.csproj.CopyComplete
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\obj\Debug\net6.0\TestLibrary.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\obj\Debug\net6.0\refint\TestLibrary.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\obj\Debug\net6.0\TestLibrary.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestLibrary\obj\Debug\net6.0\ref\TestLibrary.dll
