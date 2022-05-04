@@ -16,23 +16,3 @@ C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestUI\obj\Debug\
 C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestUI\obj\Debug\net6.0\TestUI.pdb
 C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestUI\obj\Debug\net6.0\TestUI.genruntimeconfig.cache
 C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\sln test\TestUI\obj\Debug\net6.0\ref\TestUI.dll
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\TestUI.exe
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\TestUI.deps.json
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\TestUI.runtimeconfig.json
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\TestUI.dll
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\TestUI.pdb
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\Interfaces.dll
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\TestLibrary.dll
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\TestLibrary.pdb
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\bin\Debug\net6.0\Interfaces.pdb
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\obj\Debug\net6.0\TestUI.csproj.AssemblyReference.cache
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\obj\Debug\net6.0\TestUI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\obj\Debug\net6.0\TestUI.AssemblyInfoInputs.cache
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\obj\Debug\net6.0\TestUI.AssemblyInfo.cs
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\obj\Debug\net6.0\TestUI.csproj.CoreCompileInputs.cache
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\obj\Debug\net6.0\TestUI.csproj.CopyComplete
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\obj\Debug\net6.0\TestUI.dll
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\obj\Debug\net6.0\refint\TestUI.dll
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\obj\Debug\net6.0\TestUI.pdb
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\obj\Debug\net6.0\TestUI.genruntimeconfig.cache
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\TestUI\obj\Debug\net6.0\ref\TestUI.dll

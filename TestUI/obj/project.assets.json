@@ -11,6 +11,16 @@
           "lib/net5.0/Dapper.dll": {}
         }
       },
+      "enum/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/enum.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/enum.dll": {}
+        }
+      },
       "Interfaces/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -56,6 +66,11 @@
         "lib/netstandard2.0/Dapper.xml"
       ]
     },
+    "enum/1.0.0": {
+      "type": "project",
+      "path": "../enum/enum.csproj",
+      "msbuildProject": "../enum/enum.csproj"
+    },
     "Interfaces/1.0.0": {
       "type": "project",
       "path": "../Interfaces/Interfaces.csproj",
@@ -70,7 +85,8 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Interfaces >= 1.0.0",
-      "TestLibrary >= 1.0.0"
+      "TestLibrary >= 1.0.0",
+      "enum >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -79,11 +95,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestUI\\TestUI.csproj",
+      "projectUniqueName": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestUI\\TestUI.csproj",
       "projectName": "TestUI",
-      "projectPath": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestUI\\TestUI.csproj",
+      "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestUI\\TestUI.csproj",
       "packagesPath": "C:\\Users\\HP-ProBook 6460B\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestUI\\obj\\",
+      "outputPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP-ProBook 6460B\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,11 +116,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj"
+            "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enum\\enum.csproj": {
+              "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enum\\enum.csproj"
             },
-            "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj": {
-              "projectPath": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj"
+            "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj"
+            },
+            "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj": {
+              "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj"
             }
           }
         }
