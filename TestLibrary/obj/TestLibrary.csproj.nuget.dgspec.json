@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj": {}
+    "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj": {
+    "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj",
+        "projectPath": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\HP-ProBook 6460B\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\obj\\",
+        "outputPath": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP-ProBook 6460B\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj": {
+    "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj",
         "projectName": "TestLibrary",
-        "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj",
+        "projectPath": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj",
         "packagesPath": "C:\\Users\\HP-ProBook 6460B\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\obj\\",
+        "outputPath": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP-ProBook 6460B\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj"
+              "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj"
               }
             }
           }
