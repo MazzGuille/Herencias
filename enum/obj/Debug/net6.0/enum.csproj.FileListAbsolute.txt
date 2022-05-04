@@ -1,5 +1,0 @@
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enum\obj\Debug\net6.0\enum.csproj.AssemblyReference.cache
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enum\obj\Debug\net6.0\enum.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enum\obj\Debug\net6.0\enum.AssemblyInfoInputs.cache
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enum\obj\Debug\net6.0\enum.AssemblyInfo.cs
-C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enum\obj\Debug\net6.0\enum.csproj.CoreCompileInputs.cache

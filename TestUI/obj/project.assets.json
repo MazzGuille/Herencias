@@ -11,14 +11,14 @@
           "lib/net5.0/Dapper.dll": {}
         }
       },
-      "enum/1.0.0": {
+      "enumerbale/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/enum.dll": {}
+          "bin/placeholder/enumerbale.dll": {}
         },
         "runtime": {
-          "bin/placeholder/enum.dll": {}
+          "bin/placeholder/enumerbale.dll": {}
         }
       },
       "Interfaces/1.0.0": {
@@ -66,10 +66,10 @@
         "lib/netstandard2.0/Dapper.xml"
       ]
     },
-    "enum/1.0.0": {
+    "enumerbale/1.0.0": {
       "type": "project",
-      "path": "../enum/enum.csproj",
-      "msbuildProject": "../enum/enum.csproj"
+      "path": "../enumerbale/enumerbale.csproj",
+      "msbuildProject": "../enumerbale/enumerbale.csproj"
     },
     "Interfaces/1.0.0": {
       "type": "project",
@@ -86,7 +86,7 @@
     "net6.0": [
       "Interfaces >= 1.0.0",
       "TestLibrary >= 1.0.0",
-      "enum >= 1.0.0"
+      "enumerbale >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -116,8 +116,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enum\\enum.csproj": {
-              "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enum\\enum.csproj"
+            "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enumerbale\\enumerbale.csproj": {
+              "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enumerbale\\enumerbale.csproj"
             },
             "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj": {
               "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\Interfaces\\Interfaces.csproj"

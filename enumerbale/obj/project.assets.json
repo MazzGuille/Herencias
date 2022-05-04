@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enum\\enum.csproj",
-      "projectName": "enum",
-      "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enum\\enum.csproj",
+      "projectUniqueName": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enumerbale\\enumerbale.csproj",
+      "projectName": "enumerbale",
+      "projectPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enumerbale\\enumerbale.csproj",
       "packagesPath": "C:\\Users\\HP-ProBook 6460B\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enum\\obj\\",
+      "outputPath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\enumerbale\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP-ProBook 6460B\\AppData\\Roaming\\NuGet\\NuGet.Config",

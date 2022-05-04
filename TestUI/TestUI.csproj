@@ -3,7 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\TestLibrary\TestLibrary.csproj" />
     <ProjectReference Include="..\Interfaces\Interfaces.csproj" />
-    <ProjectReference Include="..\enum\enum.csproj" />
+    <ProjectReference Include="..\enumerbale\enumerbale.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

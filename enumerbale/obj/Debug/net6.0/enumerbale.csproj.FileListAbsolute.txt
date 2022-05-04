@@ -1,0 +1,12 @@
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\bin\Debug\net6.0\enumerbale.deps.json
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\bin\Debug\net6.0\enumerbale.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\bin\Debug\net6.0\enumerbale.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\obj\Debug\net6.0\enumerbale.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\obj\Debug\net6.0\enumerbale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\obj\Debug\net6.0\enumerbale.AssemblyInfoInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\obj\Debug\net6.0\enumerbale.AssemblyInfo.cs
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\obj\Debug\net6.0\enumerbale.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\obj\Debug\net6.0\enumerbale.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\obj\Debug\net6.0\refint\enumerbale.dll
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\obj\Debug\net6.0\enumerbale.pdb
+C:\Users\HP-ProBook 6460B\Desktop\programing\Curso C#\Herencias\enumerbale\obj\Debug\net6.0\ref\enumerbale.dll
