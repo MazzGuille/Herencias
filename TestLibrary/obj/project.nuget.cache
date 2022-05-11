@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JqTaBvpPcTLhAcQreHZOhR5LoplppKwJ/ar95cRXNl1GMu6IBkBd56DdsVmq6OBjHT4sb+IoXjs/PMPtLQ6F/A==",
+  "dgSpecHash": "FmkIdKBQRuDTzJT1i/H8EsY1wQwaVRg/BMnGN4rwqpuS0TRRhFK2el0A2QtwsVRAltAezRpgV7Jp/t/ylDYudQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj",
+  "projectFilePath": "C:\\Users\\HP-ProBook 6460B\\Desktop\\programing\\Curso C#\\Herencias\\TestLibrary\\TestLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP-ProBook 6460B\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
   ],
